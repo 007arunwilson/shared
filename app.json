@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Travalour-test",
+    "icon": "https://s3.amazonaws.com/live.travalour.webmedia/logo/logoT.png",
+    "version": "1.0.0",
+    "slug": "tra-first-app",
+    "sdkVersion": "26.0.0",
+    "packagerOpts": {
+      "nonPersistent": "--nonPersistent"
+    },
+    "ios": {
+      "bundleIdentifier": "com.travalour.Travalourtest"
+    },
+    "android": {
+      "package": "com.travalour.Travalourtest"
+    },
+    "androidStatusBarColor": "#000000",
+    "androidStatusBar": {
+      "barStyle": "light-content",
+      "backgroundColor": "#000000"
+    }
+  },
+  "name": "Travalour",
+  "displayName": "Travalour"
+}
